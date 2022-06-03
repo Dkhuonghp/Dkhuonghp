@@ -1,5 +1,4 @@
-<h1>Hi<img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="display: block; opacity: 1;"><canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="50" height="49"></canvas>
-  , I'm Khuong</h1>
+<h1>Hi👋, I'm Khuong</h1>
 <p>
    
   <h3 dir="auto">
